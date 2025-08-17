@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarek Hasan</h1>
-(https://media.licdn.com/dms/image/v2/D4E16AQHB_UW1O27gfA/profile-displaybackgroundimage-shrink_350_1400/B4EZi5aQ6QHoAY-/0/1755457329913?e=1758153600&v=beta&t=96LxSTmMZOusiGTQgj918laS5G04zmR19Na2DpSL0uM)
+<img src="https://media.licdn.com/dms/image/v2/D4E16AQHB_UW1O27gfA/profile-displaybackgroundimage-shrink_350_1400/B4EZi5aQ6QHoAY-/0/1755457329913?e=1758153600&v=beta&t=96LxSTmMZOusiGTQgj918laS5G04zmR19Na2DpSL0uM/>
 <h3 align="center">A passionate Computer Science Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarekhasan007&label=Profile%20views&color=0e75b6&style=flat" alt="tarekhasan007" /> </p>
