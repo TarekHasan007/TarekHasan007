@@ -10,7 +10,9 @@
 
 - 📫 How to reach me **ttarekhhasan7@gmail.com**
 
-- ⚡ Fun fact **- I love debugging more than writing code 😎 - Coffee is my official coding fuel ☕ - Sometimes I talk to my code like it’s alive 🤖**
+- ⚡ Fun fact **- I love debugging more than writing code 😎
+-  Coffee is my official coding fuel ☕
+-  Sometimes I talk to my code like it’s alive 🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
